@@ -18,3 +18,8 @@ Time: 23:33
 Phone Number: +5583988288483
 Message: Seja bem vindo(a) ao meu teste de automação do whatsapp com python.
 --------------------
+Date: 25/4/2025
+Time: 13:15
+Phone Number: +5583988288483
+Message: Seja bem vindo(a) ao meu teste de automação do whatsapp com python, essa é uma mensagem texte.
+--------------------
